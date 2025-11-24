@@ -1,83 +1,134 @@
-# 👋 Hello, I'm **Yohan Lion**  
-### Digital Marketing · Communication · UX · AI-Driven Content
+# Yohan LION – Portfolio
 
-I'm a Digital Marketing Apprentice at **City One**, currently completing a **MSc in Digital Marketing & E-Business (INSEEC)**.  
-Passionate about digital strategy, content creation, analytics, SEO, and AI tools, I build projects focused on performance, creativity, and user experience.
+Bienvenue sur mon portfolio GitHub.
 
----
-
-## 🚀 About Me
-
-- 🎓 MSc Marketing Digital & E-Business – INSEEC (2024–2026)
-- 🎓 Licence Pro Communication – Université Paris-Saclay  
-- 💼 Digital Marketing Apprentice – City One :contentReference[oaicite:2]{index=2}
-- 💼 Former Communication Assistant – Polytech Paris-Saclay :contentReference[oaicite:3]{index=3}
-- 📍 Paris / Île-de-France
-- 📧 lioni…@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/yohan-lion-58a30226a/ :contentReference[oaicite:4]{index=4}
+Je suis **Yohan Lion**, étudiant en **MSc Marketing Digital & E-Business** et alternant **Chargé Marketing Digital** au sein du groupe **City One**.  
+Je m’intéresse particulièrement à la **stratégie digitale**, à l’**analyse de performance web**, à la **création de contenus** et à l’usage de l’**IA** pour produire des expériences innovantes.
 
 ---
 
-## 💼 Professional Experience
+## À propos de moi
 
-### **Chargé Marketing Digital – City One**  
-*2024 – Present* :contentReference[oaicite:5]{index=5}  
-- SEO audit, UX improvement, and website optimisation  
-- Social media strategy & content production  
-- Newsletter & advertising campaigns  
-- Performance tracking (Google Analytics, KPI dashboards)  
-- Competitive and digital transformation monitoring  
-
-### **Chargé de Communication – Polytech Paris-Saclay**  
-*2023 – 2024* :contentReference[oaicite:6]{index=6}  
-- Social media management  
-- Visual and video content creation  
-- Event communication support (JPO, forums, enterprise meetings)  
-- Internal & external communication  
+- 23 ans, basé en Île-de-France  
+- Chargé Marketing Digital (alternance) – **City One**  
+- Expérience précédente : Chargé de Communication – **Polytech Paris-Saclay**  
+- Parcours en communication, marketing digital et transformation digitale  
+- Permis B, mobile sur Paris / IDF  
 
 ---
 
-## 🧩 Featured Projects
+## Ce que je fais (et ce que j’apporte)
 
-### 🔥 **Digital Marketing Dashboard – Analytics & Reporting**
-Automated dashboard for performance tracking: traffic, conversions, user behaviour.  
-👉 https://github.com/ton-projet-dashboard
+Depuis mes expériences en communication et marketing digital, j’interviens sur :
 
-### 🎥 **AI Video Workflow – Runway / Sora**
-Pipeline for social video production using AI tools.  
-👉 https://github.com/ton-projet-ai-video
-
-### 🌐 **SEO-Optimized Mini Website**
-WordPress-based project focused on technical SEO, UX and Core Web Vitals.  
-👉 https://github.com/ton-projet-wordpress
-
-### 🎨 **Social Media Content Kit – Templates & Short Videos**
-Full creation toolkit for TikTok/Instagram (Water.Life & Christian content).  
-👉 https://github.com/ton-projet-social-kit
-
-### 🤖 **AI Prompt Library – Marketing Automation**
-Prompt collection for campaigns, posts, newsletters and scripts.  
-👉 https://github.com/ton-projet-ai-prompts
+- Définition et pilotage de la **stratégie digitale** (site web, réseaux sociaux, newsletters)  
+- **Audit de site**, optimisation SEO et amélioration de l’**expérience utilisateur**  
+- Création de contenus visuels et vidéo (affiches, carrousels, vidéos courtes, reels)  
+- Mise en place, suivi et **analyse de campagnes** (réseaux sociaux, emailings, ads)  
+- **Reporting des KPI** et recommandations d’optimisation  
+- Veille concurrentielle et technologique sur la **transformation digitale** et l’IA  
 
 ---
 
-## 🛠️ Skills & Tools
+## Chaîne TikTok chrétienne 100 % IA – @feudutrone
 
-### **Creation & Design**
-Photoshop · Illustrator · Premiere Pro · Canva · CapCut
+Je suis également créateur de contenu sur TikTok avec la chaîne **@feudutrone** :
 
-### **Web & Digital**
-WordPress · SEO · UX/UI · Google Analytics · Data & KPI Tracking
+- Contenus **chrétiens** au format TikTok (versets, encouragements, réflexions bibliques)  
+- Vidéos **entièrement produites avec l’IA** :  
+  - génération de scripts  
+  - création d’images et de scènes  
+  - voix off et montage  
+- Objectif : rendre le message de l’Évangile accessible, moderne et percutant sur les réseaux sociaux  
 
-### **Artificial Intelligence**
-Runway · Sora · Claude · Automated workflows
-
-### **Other**
-Content Strategy · Social Media · Digital Project Management
+👉 TikTok : [@feudutrone](https://www.tiktok.com/@feudutrone)
 
 ---
 
-## 📫 Contact
+## Mes projets GitHub
 
-Email: **lioni…@gmail.com**  
-LinkedIn: **https://www.linkedin.com/in/yohan-lion-58a30226a/**
+*(Les liens sont des exemples : tu pourras les remplacer par tes vrais dépôts GitHub.)*
+
+### Projet 1 – Audit & optimisation SEO d’un site vitrine
+- Analyse technique et sémantique  
+- Optimisation des balises, structure des pages et contenus  
+- Recommandations UX pour améliorer le parcours utilisateur  
+👉 Repo : `https://github.com/yohanlion/audit-seo-site-vitrine`
+
+### Projet 2 – Tableau de bord Google Analytics & reporting
+- Suivi des performances (trafic, acquisition, engagement)  
+- Création d’un tableau de bord automatisé  
+- Synthèse mensuelle des KPI marketing  
+👉 Repo : `https://github.com/yohanlion/dashboard-analytics-kpi`
+
+### Projet 3 – Kit de contenus réseaux sociaux pour une marque de services
+- Stratégie éditoriale (lignes directrices, ton, rubriques)  
+- Templates Canva et scripts vidéo pour Instagram/TikTok  
+- Planning éditorial sur 1 à 3 mois  
+👉 Repo : `https://github.com/yohanlion/kit-social-media`
+
+### Projet 4 – IA & Vidéo : pipeline de création de vidéos TikTok
+- Workflow complet de production de vidéos chrétiennes avec IA  
+- Prompts, storyboard, génération d’images, texte, voix et montage  
+- Documentation pour reproduire le processus  
+👉 Repo : `https://github.com/yohanlion/pipeline-video-ia-tiktok`
+
+---
+
+## Compétences
+
+### Marketing digital & communication
+- Stratégie de communication digitale  
+- Social media management (Instagram, TikTok, LinkedIn, Facebook)  
+- Emailing / newsletters  
+- Rédaction de contenus (posts, articles, scripts vidéo)  
+
+### Web, SEO & Analytics
+- WordPress (création, mise à jour, optimisation)  
+- SEO on-page & optimisation de contenus  
+- Google Analytics & reporting de performance  
+
+### Création graphique & vidéo
+- Photoshop, Illustrator (bases), Premiere Pro  
+- Canva, CapCut  
+- Création de visuels pour web & réseaux sociaux  
+- Montage vidéo court format (Reels, TikTok, Shorts)  
+
+### IA & outils digitaux
+- Utilisation d’outils IA (Runway, Sora, Claude, etc.)  
+- Idéation, génération de scripts et visuels  
+- Automatisation de tâches marketing simples  
+
+---
+
+## Formations
+
+- **MSc Marketing Digital & E-Business – INSEEC** (2024–2026)  
+- **Licence Professionnelle Métiers de la Communication – Université Paris-Saclay**  
+- **Licence d’Histoire – Université Paris-Saclay**  
+
+---
+
+## Expériences principales
+
+### Chargé Marketing Digital – City One
+- Audit et optimisation du site web  
+- Amélioration de l’expérience utilisateur  
+- Gestion et animation des réseaux sociaux  
+- Mise en œuvre de plans d’action digitaux (campagnes, contenus, newsletters)  
+- Analyse des performances web et reporting régulier  
+
+### Chargé de Communication – Polytech Paris-Saclay
+- Gestion des réseaux sociaux de l’école  
+- Création de supports de communication (affiches, visuels, vidéos)  
+- Participation aux événements (JPO, forums, rencontres entreprises)  
+
+---
+
+## Me contacter
+
+- Email : **lioni…@gmail.com**  
+- LinkedIn : [Yohan Lion](https://www.linkedin.com)  
+- TikTok : [@feudutrone](https://www.tiktok.com/@feudutrone)
+
+Merci d’avoir visité mon portfolio GitHub !
